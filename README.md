@@ -1,4 +1,4 @@
-#Slack Bot for shortening URL 
+# Slack Bot for shortening URL 
 
 ## Architecture of application
 
