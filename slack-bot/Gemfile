@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'slack-ruby-bot'
+gem 'celluloid-io'
+gem 'async-websocket', '~> 0.8.0'
+gem 'httparty'

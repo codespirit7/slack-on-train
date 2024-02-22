@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://
+      options:
+        server_selection_timeout: 5
